@@ -6,4 +6,7 @@
 
 ---------
 #### * Deployed Site Link:https://amazonsenti2.azurewebsites.net
-#### * Dataset Link :
+#### * Dataset Link :https://www.kaggle.com/bittlingmayer/amazonreviews
+
+* Used Count vectorizer and Logistic Regression 
+* We will classify the reviews as positive or negative based on the text input by the user
